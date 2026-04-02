@@ -3,10 +3,10 @@
 ```mermaid
 flowchart LR
     ONT[ISP ONT / Fiber Box]
-    ISP_Router[ISP Router<br/>(Router Mode)]
-    OPNsenseWAN[OPNsense Firewall<br/>WAN Interface]
-    OPNsenseLAN[OPNsense Firewall<br/>LAN Interface]
-    AP[ASUS AX3000<br/>Access Point Mode]
+    ISP_Router[ISP Router\n(Router Mode)]
+    OPNsenseWAN[OPNsense Firewall\nWAN Interface]
+    OPNsenseLAN[OPNsense Firewall\nLAN Interface]
+    AP[ASUS AX3000\nAccess Point Mode]
     Wired[Wired LAN Devices]
     Wireless[Wireless Devices]
 
@@ -17,4 +17,3 @@ flowchart LR
     AP --> Wired
     AP --> Wireless
 ```
-
