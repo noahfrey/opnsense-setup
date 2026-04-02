@@ -1,4 +1,17 @@
 # Issues and Troubleshooting
+This file documents real issues encountered during the OPNsense and ASUS AP setup, along with root‑cause analysis and resolutions. It serves as a reference for reproducibility and demonstrates systematic troubleshooting in a home network environment.
+
+
+## Format
+Each issue is documented with:
+- **Issue** — what went wrong  
+- **Symptoms** — what was observed  
+- **Cause** — root cause or likely cause  
+- **Resolution** — what fixed it  
+- **Notes** — anything useful for future reference  
+
+---
+
 
 ## OPNsense install becoming unusable after long inactivity
 **Issue** — The original OPNsense installation became unstable after sitting unused.
