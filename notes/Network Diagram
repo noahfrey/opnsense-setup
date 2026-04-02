@@ -15,4 +15,5 @@ flowchart LR
     OPNsenseWAN --> OPNsenseLAN
     OPNsenseLAN --> AP
     AP --> Wired
-    AP --> Wireless```
+    AP --> Wireless
+```
